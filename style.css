@@ -1,0 +1,11 @@
+img{
+    width: 250px;
+    height: 300PX;
+    border-radius: 50%;
+}
+
+h1{ 
+    color: blue; 
+    font-size: 40px;
+    font-family: sans-serif;
+}
